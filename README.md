@@ -1,5 +1,5 @@
 # Model Trainer for Custom Object Detection & Segmentation
-Object detection allows for the recognition, detection, and localization of multiple objects within an image. It provides us a much better understanding of an image as a whole as apposed to just visual recognition.
+Object detection allows for the recognition, detection, and segmentation of multiple objects within an image. It provides us a much better understanding of an image as a whole as apposed to just visual recognition.
 ![](https://github.com/dl-proj/ModelTrainer/detection&segmentation.jpg)
 
 ## Installation
